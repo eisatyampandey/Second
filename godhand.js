@@ -1,1 +1,1 @@
-console.log("Godhand version");
+hero no 2
